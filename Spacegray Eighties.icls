@@ -95,6 +95,13 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4db77" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5b5b57" />
@@ -491,7 +498,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c1bfb5" />
+        <option name="FOREGROUND" value="f4bc4b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -503,7 +510,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="5280bc" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -593,7 +600,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="5280bc" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -830,14 +837,14 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f4bc4b" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="5280bc" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -849,7 +856,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e55d63" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -867,7 +874,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e55d63" />
+        <option name="FOREGROUND" value="c1bfb5" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1078,7 +1085,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d3d0c8" />
+        <option name="FOREGROUND" value="f4bc4b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1090,7 +1097,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="c1bfb5" />
+        <option name="FOREGROUND" value="c8c6bc" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1156,7 +1163,7 @@
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="c1bfb5" />
+        <option name="FOREGROUND" value="c8c6bc" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
