@@ -1,5 +1,5 @@
 # phpstorm-themes
 Git repo to store my phpstorm themes.
 
-So far implemented:
-* Spacegray - Eighties
+## Spacegray - Eighties
+![alt tag](https://raw.githubusercontent.com/alextiley/phpstorm-themes/master/spacegray-eighties.jpg)
